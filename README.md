@@ -6,7 +6,7 @@ Everyone on the team then reaches the course folders by the same short paths, su
 
 What it does
 
-map-ocen-masters.bat:
+map-esail.bat:
 
 Checks that OneDrive for Business (Texas A&M account) is set up on this computer.
 Checks that the shared folder Roach, Christine's files - 00-OCEN Masters has been added to your OneDrive and synced.
@@ -31,11 +31,11 @@ If you previously used the old eSAIL mapping: first remove the old Roach, Christ
 
 2. Download the script
 
-Save map-ocen-masters.bat somewhere permanent, such as Documents.
+Save map-esail.bat somewhere permanent, such as Documents.
 
 3. Run it
 
-Double-click map-ocen-masters.bat. Don't use "Run as administrator", because drives mapped that way don't appear in File Explorer or Premiere.
+Double-click map-esail.bat. Don't use "Run as administrator", because drives mapped that way don't appear in File Explorer or Premiere.
 
 If Windows shows "Windows protected your PC", click More info, then Run anyway.
 
@@ -44,7 +44,7 @@ If Windows shows "Windows protected your PC", click More info, then Run anyway.
 Drives created with subst disappear when you restart, so set the script to run automatically:
 
 Press Win + R, type shell:startup, and press Enter.
-Right-click map-ocen-masters.bat, choose Create shortcut, and move the shortcut into the Startup folder.
+Right-click map-esail.bat, choose Create shortcut, and move the shortcut into the Startup folder.
 Checking that it worked
 
 Use any of these:
